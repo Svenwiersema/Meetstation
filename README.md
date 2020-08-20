@@ -1,2 +1,10 @@
 # Meetstation
-A project for school
+Je wilt op je smartphone graag de actuele temperatuur en luchtvochtigheid meten in je klaslokaal. De basis van het geheel zal normaal gesproken weer een Arduino (of compatible) microcontroller kunnen zijn met een WI-FI module als bijvoorbeeld de ESP8266 en een temperatuur c.q. luchtvochtigheid sensor(en) naar keuze.
+Maar het is in deze opdracht echter de bedoeling dat je een “dedicated” apparaatje gaat bouwen die deze metingen blijft doen. Dus een ‘meetstationnetje’ in en kastje. Dus geen tijdelijke opstelling op een breadboard met een “complete” Arduino, maar gebruik in dit geval alleen de benodigde chips om e.e.a. samen te stellen en in elkaar te solderen.
+Je “meetstationnetje” dien je een klein kastje te gaan verwerken, als dan niet met een ingebouwde voeding naar keuze.
+Je zult dus ook moeten onderzoeken welke componenten je nu specifiek nodig bent, rekening houdend met een optimale prijs en levertijd.
+Alvorens je daadwerkelijk aan het ‘bouwen’ gaat, is het belangrijk dat je een plan hiervoor maakt dat heet een “plan van aanpak” en daarin leg je vast wat de bedoeling is van het project, wat voor tijdspad je in gedachten hebt, en welke stappen je gaat volgen om e.e.a. gerealiseerd te krijgen.
+In een ‘bedrijfssituatie’ wordt er ook altijd gevraagd wat de verwachte kosten zullen zijn, en die zijn natuurlijk zowel afhankelijk van het gebruikte materiaal, maar ook van de hoeveelheid tijd die er in zal gaan zitten. Maak een “Gannt diagram” om een duidelijk tijdpad weer te geven van je planning. Maak ook een calculatie vooraf hiervan, waarbij je mag gaan rekenen met een uurtarief van €50,-.
+De stappen die je gaat nemen, en later ook de voortgang dien je te gaan vastleggen in het programma ‘Trello’. Je moet Excel gaan gebruiken om de calculatie in te maken, en Word om het plan te schrijven. In GitHub dien je ook voor dit project zowel het plan als de gebruikte programmacode vast te leggen!
+Je mag ook pas gaan beginnen met het daadwerkelijk bouwen van het project als je plan en calculatie compleet is, en door de docenten is goedgekeurd!
+
